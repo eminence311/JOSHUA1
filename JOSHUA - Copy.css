@@ -1,0 +1,16 @@
+.footer{
+	background-color: brown;
+	padding: 50px;
+	color: white;
+}
+
+.obj{
+	background-color: brown;
+	padding: 5px;
+	color: white;
+	opacity: 0.7;
+}
+
+.dt{
+	color: brown;
+}
